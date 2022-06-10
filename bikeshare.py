@@ -8,11 +8,8 @@ from datetime import datetime
 #I am refactoring the code
 
 CITY_DATA = { 'chicago': 'chicago.csv',
-              'Chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
-              'New York City' : 'new_york_city.csv',
-              'washington': 'washington.csv',
-              'Washington': 'washington.csv' }
+              'washington': 'washington.csv' }
 
 def get_filters():
     """
