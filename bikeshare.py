@@ -5,6 +5,8 @@ from datetime import datetime
 
 #SOURCES: I consulted Geeks for Geeks (geeksforgeeks.org), Statology (statology.org), and Stack Overflow (stackoverflow.com) in the writing of this code.
 
+#I am refactoring the code
+
 CITY_DATA = { 'chicago': 'chicago.csv',
               'Chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
